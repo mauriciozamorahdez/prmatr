@@ -2,7 +2,7 @@ package prmatr;
 
 /**
  *
- * @author mauricio
+ * @author Mauricio Zamora
  */
 public class PrMatr {
 
